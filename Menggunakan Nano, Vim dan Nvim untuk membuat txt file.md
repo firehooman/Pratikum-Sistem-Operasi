@@ -50,6 +50,6 @@ Penggunaan Nano, Vim dan Nvim pada Virtual Machine Ubuntu Linux
 
    Berikut adalah tampilan ketika command di atas dijalankan:
    
-  ![WhatsApp Image 2024-03-04 at 13 13 37_1f6a46c2](https://github.com/firehooman/Pratikum-Sistem-Operasi/assets/126407683/e2170d1a-7862-4643-8110-2b4cb2373204)
+    ![WhatsApp Image 2024-03-04 at 13 13 37_1f6a46c2](https://github.com/firehooman/Pratikum-Sistem-Operasi/assets/126407683/e2170d1a-7862-4643-8110-2b4cb2373204)
 
 
